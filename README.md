@@ -1,4 +1,4 @@
-### Hello, World! 👋
+### Hello World! 👋
 
 [![Medium Badge](https://img.shields.io/badge/-legimenes-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://legimenes.medium.com)](https://legimenes.medium.com)
 
